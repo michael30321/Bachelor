@@ -13,7 +13,14 @@ For each of these there exist three different scenarios:
 In every scenario exist a folder in the World Outliner with the word 'LIGHT' at the beginning, followed by the description for the lighting method and scenario. It contains the settings that are unique for that scenario.
 example:
 Folder 'LIGHTStaticDaytime' contains:
--
+- Lights (Folder): Contains the ceiling light models that have different materials for night-/daytime
+- WindowLights (Folder): Only present in the daytime-scenarios, contains the filllights in front of the windows (some of them static depending on lighting approach)
+- CeilingLights (Folder): Only present in the nighttime-scenario, contains the ceiling light-sources (static/stationary depending on lighting approach)
+- Atmospheric Fog: Different settings for clear sky-/night-scenarios but not present in the overcast sceanrios
+- Skylight: Present in the daytime-scenarios but not in the nighttime-scenarios
+- DirectionalLightStationary1: Different settings for every sceanrio
+- SM_Skysphere: Different settings in every scenario
+- SM_Surround: Different settings for each approach
 
 # Textures
 - Textures Street:https://freestocktextures.com/texture/asphalt-road-street,94.html
