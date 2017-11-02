@@ -15,9 +15,9 @@ example:
 - Lights (Folder): Contains the ceiling light models that have different materials for night-/daytime
 - WindowLights (Folder): Only present in the daytime-scenarios, contains the filllights in front of the windows (some of them static depending on lighting approach)
 - CeilingLights (Folder): Only present in the nighttime-scenario, contains the ceiling light-sources (static/stationary depending on lighting approach)
-- Atmospheric Fog: Different settings for clear sky-/night-scenarios but not present in the overcast sceanrios
+- Atmospheric Fog: Different settings for clear sky-/night-scenarios but not present in the overcast scenarios
 - Skylight: Present in the daytime-scenarios but not in the nighttime-scenarios
-- DirectionalLightStationary1: Different settings for every sceanrio
+- DirectionalLightStationary1: Different settings for every scenario
 - SM_Skysphere: Different settings in every scenario
 - SM_Surround: Different settings for each approach
 
