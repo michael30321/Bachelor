@@ -12,7 +12,6 @@ For each of these there exist three different scenarios:
 # Differences between the scenarios
 In every scenario exist a folder in the World Outliner with the word 'LIGHT' at the beginning, followed by the description for the lighting method and scenario. It contains the settings that are unique for that scenario.
 example:
-Folder 'LIGHTStaticDaytime' contains:
 - Lights (Folder): Contains the ceiling light models that have different materials for night-/daytime
 - WindowLights (Folder): Only present in the daytime-scenarios, contains the filllights in front of the windows (some of them static depending on lighting approach)
 - CeilingLights (Folder): Only present in the nighttime-scenario, contains the ceiling light-sources (static/stationary depending on lighting approach)
